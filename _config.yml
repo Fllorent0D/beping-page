@@ -71,12 +71,12 @@ marketing_desc: >
 # Includes an icon for each username you enter
 #
 social-links:
-  github:
-  facebook:
+  github: https://github.com/Fllorent0D/BePing2
+  facebook: https://www.facebook.com/getbeping/
   twitter:
   pinterest:
   instagram:
-  email:
+  email: f.cardoen@me.com
   youtube: # channel/<your_long_string> or <user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
