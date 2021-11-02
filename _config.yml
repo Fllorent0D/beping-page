@@ -44,26 +44,26 @@ app:
 #
 marketing_header: L'appli de Ping belge # Optional
 marketing_desc: >
-BePing vous permet d'obtenir des informations rapidement en rapport à vos matchs ou à votre club de tennis de table en Belgique.
+  BePing vous permet d'obtenir des informations rapidement en rapport à vos matchs ou à votre club de tennis de table en Belgique.
 
-Vous pourrez : 
-  - Estimation de classements
-  - Notifications push lors d'ajout de nouveaux résultats
-  - Obtenir les statistiques de vos matchs
-  - Avoir un calendrier avec les matchs de votre club
-  - Afficher les équipes et les statistiques de votre club
-  - Afficher les classements d'une division
-  - Résultats de tournois
-  - Afficher les informations d'un club
-  - Consulter des feuilles de matchs
-  - Statistiques sur la participation d'une équipe dans une division
-  - Rechercher un joueur
+  Vous pourrez : 
+    - Estimation de classements
+    - Notifications push lors d'ajout de nouveaux résultats
+    - Obtenir les statistiques de vos matchs
+    - Avoir un calendrier avec les matchs de votre club
+    - Afficher les équipes et les statistiques de votre club
+    - Afficher les classements d'une division
+    - Résultats de tournois
+    - Afficher les informations d'un club
+    - Consulter des feuilles de matchs
+    - Statistiques sur la participation d'une équipe dans une division
+    - Rechercher un joueur
 
-  A venir :
-  - Top par division
-  - Bien d'autres choses!
+    A venir :
+    - Top par division
+    - Bien d'autres choses!
 
-  BePing n'est associée avec aucune organisation officielle (AFTT, VTTL, FRBTT). Ce n'est pas une application officielle. Si une différence venait à être constatée pour les rencontres de l'AFTT, seule l'application officielle de l’AFTT doit être prise en compte.ya
+    BePing n'est associée avec aucune organisation officielle (AFTT, VTTL, FRBTT). Ce n'est pas une application officielle. Si une différence venait à être constatée pour les rencontres de l'AFTT, seule l'application officielle de l’AFTT doit être prise en compte.ya
 
 #
 # Social Links
